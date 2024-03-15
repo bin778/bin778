@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode-007ACC&logoColor=white">
 </p>
 
-
 #### Studying
 <p>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -34,4 +33,5 @@
   <a href="mailto:bin778@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:bin778@naver.com"></a>
   <a href="https://www.instagram.com/youngbin.ch/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/youngbin.ch/"></a>
 </p>
- 
+
+<br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin778&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
