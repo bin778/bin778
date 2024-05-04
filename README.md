@@ -35,3 +35,4 @@
 </p>
 
 <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin778&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
+<br> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin778)](https://solved.ac/bin778)
