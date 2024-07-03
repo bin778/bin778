@@ -1,8 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,100:fd1d1d&height=200&text=Welcome!!&desc=CYI3's%20GitHub&fontColor=ffffff&fontSize=60&fontAlignY=30&descAlign=60&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,100:fd1d1d&height=200&text=Welcome!!&desc=Youngbin's%20GitHub&fontColor=ffffff&fontSize=60&fontAlignY=30&descAlign=60&descAlignY=45)
 
 ### 😀 My introduce 😀
 안녕하세요! 저는 최영빈이고 프론트엔드를 공부하고 있습니다. <br>
-저는 소프트웨어공학을 전공하였고 아무리 어렵고 힘들더라도 포기하지 않고 도전하여 성장하는 개발자가 되겠습니다. <br>
+저는 소프트웨어공학을 전공하였고 아무리 어렵고 힘들더라도 포기하지 않고 도전하여 끊임없이 성장하는 개발자가 되겠습니다. <br>
+
+### 💻 My Goals 💻 ###
+TypeScript를 사용하여 작년에 실패한 키오스크 프로젝트를 복구하여 완성하는 것이 현재 목표입니다.
+
+### 💾 My Project 💾 ###
+| 프로젝트명 | 개발 시간 | 소개 | 
+| :----------------------: | :----------------------: |  :----------------------: |
+| <a href="https://github.com/bin778/CustomPCBuilder">CustomPCBuilder</a> | 2023.08 ~ 2023.12 | 키워드를 입력하면 원하는 용도와 가격으로 컴퓨터를 구매할 수 있는 사이트 |
 
 ### 🔨 Teck Stack 🔨
 #### Language
