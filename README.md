@@ -40,8 +40,9 @@ TypeScript를 사용하여 작년에 실패한 키오스크 프로젝트를 복�
 ### 📧 SNS 📧
 <p>
   <a href="mailto:bin778@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:bin778@naver.com"></a>
+  <a href="mailto:young8bin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:young8bin@gmail.com"></a>
   <a href="https://www.instagram.com/youngbin.ch/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/youngbin.ch/"></a>
 </p>
 
-<br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bin778&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
+### ⭐ My Solved ⭐
 <br> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin778)](https://solved.ac/bin778)
