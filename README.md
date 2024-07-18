@@ -35,6 +35,7 @@ TypeScript를 사용하여 작년에 미완성된 키오스크 프로젝트를 �
 #### Studying
 <p>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### 📧 SNS 📧
