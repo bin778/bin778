@@ -10,7 +10,8 @@ TypeScript를 사용하여 작년에 미완성된 키오스크 프로젝트를 �
 ### 💾 My Project 💾 ###
 | 프로젝트명 | 개발 시간 | 소개 | 
 | :----------------------: | :----------------------: |  :----------------------: |
-| <a href="https://github.com/bin778/CustomPCBuilder">CustomPCBuilder</a> | 2023.08 ~ 2023.12 | 키워드를 입력하면 원하는 용도와 가격으로 컴퓨터를 구매할 수 있는 사이트 |
+| <a href="https://github.com/bin778/CustomPCBuilder">CustomPCBuilder</a> | 2023.08.01 ~ 2023.12.22| 키워드를 입력하면 원하는 용도 및 가격에 맞는 컴퓨터를 구매할 수 있는 웹 사이트 |
+| <a href="https://github.com/bin778/Weather">Weather</a> | 2024.07.21 ~ 2024.07.25 | OpenWeatherMap API를 활용한 현재 날씨 및 예보를 볼 수 있는 웹 사이트 |
 
 ### 🔨 Teck Stack 🔨
 #### Language
