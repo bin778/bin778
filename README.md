@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,100:fd1d1d&height=200&text=Welcome!!&desc=Youngbin's%20GitHub&fontColor=ffffff&fontSize=60&fontAlignY=30&descAlign=60&descAlignY=45)
 
 ### 😀 My introduce 😀
-안녕하세요! 저는 최영빈이고 프론트엔드 개발자가 되고 싶습니다! <br>
-저는 소프트웨어학과을 전공하였고 아무리 어려워도 포기하지 않고 도전하여 끊임없이 성장하는 개발자가 되겠습니다. <br>
+안녕하세요! 저는 최영빈이고 프론트엔드 개발자가 되는 것이 목표입니다! <br>
+저는 소프트웨어학과을 전공하였고 아무리 어려워도 끝없이 도전하고 시도하여 성장하는 개발자가 되겠습니다. <br>
 
 ### 💾 My Project 💾 ###
 | 프로젝트명 | 개발 시간 | 소개 | 
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 #### Tools
@@ -33,8 +34,8 @@
 
 #### Studying
 <p>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 </p>
 
 ### 📧 SNS 📧
