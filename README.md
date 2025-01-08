@@ -10,6 +10,7 @@
 | <a href="https://github.com/bin778/Weather">Weather</a> | 2024.07 ~ 2024.07 | OpenWeatherMap API를 활용한 간단한 날씨 웹 사이트 |
 | <a href="https://github.com/bin778/every_kiosk">Every Kiosk</a> | 2024.07 ~ 2024.08 | 중노년층의 사용편의성을 고려한 햄버거 키오스크 |
 | <a href="https://github.com/bin778/SimpleBound">SimpleBound</a> | 2024.09 ~ 2024.10 | 폭탄을 피해 높은 점수를 얻는 간단한 게임 |
+| <a href="https://github.com/bin778/News">News</a> | 2024.12 ~ 2025.01 | Next.js를 이용한 간단한 뉴스 웹 크롤링 사이트 |
 
 ### 🔨 Teck Stack 🔨
 #### Language
