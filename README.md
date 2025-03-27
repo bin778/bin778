@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,100:fd1d1d&height=200&text=Welcome!!&desc=CYI3's%20GitHub&fontColor=ffffff&fontSize=60&fontAlignY=30&descAlign=60&descAlignY=45)
 
 ### 😀 My introduce 😀
-안녕하세요! 저는 프론트엔드 개발자를 지향합니다. <br>
+The opposite of success is not failing, it is quitting. <br>
+Giving up is proving yourself worthless. <br>
+Don't compromise what you want to achieve. <br>
 
 ### 💾 My Project 💾 ###
 | 프로젝트명 | 개발 시간 | 소개 | 
