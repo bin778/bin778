@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,100:fd1d1d&height=200&text=Welcome!!&desc=bin778's%20GitHub&fontColor=ffffff&fontSize=60&fontAlignY=30&descAlign=60&descAlignY=45)
 
 ### 😃 HI THERE! My name is bin778
+The only way to be free is to be strong. <br>
 The opposite of success is not failing, it is quitting. <br>
 Giving up is proving yourself worthless. <br>
 Don't compromise what you want to achieve. <br>
