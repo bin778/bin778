@@ -2,9 +2,6 @@
 
 ### 😃 HI THERE! My name is bin778
 The only way to be free is to be strong. <br>
-The opposite of success is not failing, it is quitting. <br>
-Giving up is proving yourself worthless. <br>
-Don't compromise what you want to achieve. <br>
 
 ### 💾 My Project 💾 ###
 | 프로젝트명 | 개발 시간 | 소개 | 
