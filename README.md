@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,100:fd1d1d&height=200&text=Welcome!!&desc=bin778's%20GitHub&fontColor=ffffff&fontSize=60&fontAlignY=30&descAlign=60&descAlignY=45)
 
-### 😃 HI THERE! My name is bin778
-The only way to be free is to be strong. <br>
+## 😃 HI THERE! 
+
+### My name is YoungBin!!
 
 ### 💾 My Project 💾 ###
 | 프로젝트명 | 개발 시간 | 소개 | 
