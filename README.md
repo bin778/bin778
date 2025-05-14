@@ -2,7 +2,7 @@
 
 ## 😃 HI THERE! 
 
-### My name is YoungBin!!
+### My name is Youngbin!!
 
 ### 🔨 Teck Stack 🔨
 #### Language
