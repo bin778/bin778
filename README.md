@@ -45,7 +45,7 @@
 </p>
 
 ### ⚾ Used Language ⚾
-<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin778&layout=donut&theme=radical)](https://github.com/bin778/github-readme-stats)
+<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin778&layout=donut&theme=radical)](https://github.com/bin778)
 
 ### ⭐ My Solved ⭐
 <br> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin778)](https://solved.ac/bin778)
