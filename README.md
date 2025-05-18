@@ -44,5 +44,8 @@
   <a href="https://velog.io/@bin778/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@bin778/posts"></a>
 </p>
 
+### ⚾ Used Language ⚾
+<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin778&layout=donut&theme=radical)](https://github.com/bin778/github-readme-stats)
+
 ### ⭐ My Solved ⭐
 <br> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin778)](https://solved.ac/bin778)
