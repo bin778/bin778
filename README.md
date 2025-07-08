@@ -2,7 +2,9 @@
 
 ## 😃 HI THERE! 
 
-### My name is Youngbin!!
+### My name is Youngbin!! 
+
+### Attack is the Best Defence!!
 
 ### 🔨 Tech Stack 🔨
 #### Language
