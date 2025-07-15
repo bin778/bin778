@@ -55,7 +55,7 @@
   <a href="mailto:bin778@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white&link=mailto:bin778@naver.com"></a>
   <a href="mailto:young8bin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:young8bin@gmail.com"></a>
   <a href="https://www.instagram.com/youngbin.ch/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/youngbin.ch/"></a>
-  <a href="https://velog.io/@bin778/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@bin778/posts"></a>
+  <a href="https://bin778.tistory.com"><img src="https://img.shields.io/badge/tistory-f54?style=for-the-badge&logo=tistory&logoColor=white&link=https://bin778.tistory.com"></a>
 </p>
 
 ### 🥾 Used Languages 🥾
