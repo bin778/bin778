@@ -4,7 +4,7 @@
 
 ### My name is Youngbin!! 
 
-### Attack is the Best Defence!!
+### Life is Overrride!
 
 ### 🔨 Tech Stack 🔨
 #### Language
