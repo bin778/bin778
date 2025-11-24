@@ -2,9 +2,9 @@
 
 ## 😃 HI THERE! 
 
-### My name is Youngbin!! 
-
 ### Life is Overrride!
+
+### My Mail: young8bin@gmail.com
 
 ### 🔨 Tech Stack 🔨
 #### Language
