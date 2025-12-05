@@ -48,8 +48,5 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
-### 🥾 Used Languages 🥾
-<br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bin778&layout=donut&theme=radical)](https://github.com/bin778)
-
 ### ⭐ My Solved ⭐
 <br> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bin778)](https://solved.ac/bin778)
